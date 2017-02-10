@@ -1,0 +1,14 @@
+.home {
+    width: 100%;
+    height: 80vh;
+    background: url('../images/rcb.jpg') no-repeat center;
+    background-image: linear-gradient(rgba(183,28,28,0.5), rgba(183,28,28,0.9)),url(../images/rcb.jpg);
+    background-size: cover;
+}
+
+.promo i {
+    margin: 40px 0;
+    color: rgba(183,28,28,1);
+    font-size: 5rem;
+    display: block;
+}
