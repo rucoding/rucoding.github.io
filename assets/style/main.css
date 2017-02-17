@@ -12,3 +12,11 @@
     font-size: 5rem;
     display: block;
 }
+
+.iris {
+    background-image: url("../images/anthony.jpg");
+    background-size: cover;
+    border-radius: 50%;
+    height: 50vh;
+    width: 50vh;
+}
